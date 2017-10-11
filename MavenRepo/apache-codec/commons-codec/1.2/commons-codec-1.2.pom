@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>apache-codec</groupId>
+  <artifactId>commons-codec</artifactId>
+  <version>1.2</version>
+  <url>http://jakarta.apache.org/commons/codec/</url>
+  <description>Commons Codec provides implementations of common encoders and decoders</description>
+  <licenses>
+   <license>
+     <name>apache-2.0</name>
+     <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+   </license>
+  </licenses>  
+  <distributionManagement>
+    <status>deployed</status>
+  </distributionManagement>
+</project>

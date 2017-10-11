@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Sep 12 14:26:18 IST 2017
+org.eclipse.persistence.core-2.5.1.jar>maven.central=
+org.eclipse.persistence.core-2.5.1.pom>maven.central=

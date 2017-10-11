@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Oct 03 10:42:34 IST 2017
+@default-maven.central-https\://ci.mindeservices.com/maven/content/groups/mind/.lastUpdated=1507007554549
+https\://ci.mindeservices.com/maven/content/groups/mind/.error=Could not transfer artifact org.springframework\:spring-context\:jar\:4.3.7.RELEASE from/to maven.central (https\://ci.mindeservices.com/maven/content/groups/mind)\: D\:\\WorkStation\\Repositories\\MavenRepo\\org\\springframework\\spring-context\\4.3.7.RELEASE\\aether-e2050ff8-d533-4187-82f5-4589a0a26bab-spring-context-4.3.7.RELEASE.jar-in-progress (The system cannot find the file specified)
